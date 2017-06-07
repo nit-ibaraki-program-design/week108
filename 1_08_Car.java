@@ -26,7 +26,7 @@ class Car {
     }
 }
 
-class Pd7car1 {
+class Pd8car1 {
     public static void main(String[] args) {
         Car c1 = new Car(); c1.show();
         c1.setGas(500); c1.show();
